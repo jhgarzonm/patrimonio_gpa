@@ -4,7 +4,7 @@ import React from 'react';
 
 function Map() {
   return (
-    <div style={{ width: '100%', height: '100vh' }}>
+    <div style={{ width: '100%', maxWidth: '800px', height: '500px', margin: '0 auto' }}>
       <iframe
         title="Custom Google Map"
         src="https://www.google.com/maps/d/u/0/embed?mid=1S2m4aaP0DUFjWTFHKtGpqUZmdTRNW3Eh"
@@ -18,6 +18,7 @@ function Map() {
 }
 
 export default Map;
+
 
 /* import React from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';

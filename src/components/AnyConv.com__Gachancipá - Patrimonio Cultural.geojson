@@ -1,0 +1,453 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.870754,
+                    4.991516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/kg6ubstmg5te6if4mr1vfc923o/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-EYcMylKnJ7YdXzkBeumD5eC775SiYSRlkn-hNe4LhDfDOIsG_RkgBcT01Dz5h37QgQe3zWfvhKCJF6rwdbeROWcWjICWAM4LOBaMIaDVjnkfHSWk7f4rT2iu4OUoPWyiIIxzwUmwi0ua9cRN4lW5scQkKXMs0EohguqQ8L-VdBFOH61PscLi5A28SBp3nfCzcR?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Edificio patrimonial. Iglesia católica fundada en 1612.<br><br><img src=\"https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/hin2ha6qlc4hfcrinogbbhkpmk/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-FGlwObF_2Uci0urnFybA_AyzjFmWaXIIEiig2k9fMAfI_ephrUhwdBCkCM7GW0zkGyZNS1q_d_PUVF8QuoUdQvDtqrhpZkuadG6MV-YgIH7dYm87FvNKhPU4sMhH0H26boXGEi9CKQO5p5jnthxw0OtGne87gbMtTvc0PMM3rkQY9zVQftOiaYh3A5Q0PcqVbf?session=0&fife\" height=\"200\" width=\"auto\" />",
+                "name": "Iglesia San Bartolomé Apostol"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8711596,
+                    4.9915187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/us9fmuu0o1g3rrn84vomskgvq4/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-Hs6QdeARF8HSntp2QFNZ-xi_4uK_YDM8DZMPDHTt5gj4q6tZJf2pds5kd8rS4fdl5c_6DR0HZfmSgDlGUMdcgxBFOMc1WPgw8Szzxezjd5NDjd0FG6EnxvK-bgG8V71413sPKcojj6hLbyAoIJxtsGhAKzZ4JMAYWvS9yn1UlNBxpJ4BjGcVq64edw07BKV0s?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>: Edificación colonial de tipo virreinal. Antiguamente utilizada como casa cural y escuela, entre otros usos. Se dice que allí pernoctó el libertador Simón Bolívar. Ha sido restaurada en dos ocasiones, pero conserva su estilo arquitectónico",
+                "name": "Casa de la Cultura Gonzalo Arango"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8742026,
+                    4.9912398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-14-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/hq3fhc13m5jmfg8l0l4khaq9fg/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-GmmSDxPJFvhglIMZZ-JaAE5MiistcieXXsqtoBBXBqNfJsTmmIHCyXDLrHPH8otJaoY2tmpn7F5Rxt99OCjmkeEfORO-OwAM-h0WMjq2n3B-8QmqFBGi2449m2vb1V5AG85YyP9_t0cAToCV9a8tsOQgwRPXZlhBGX5M7eZmpSioJjsly2g36tj0bz5sYWWpwd?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Estación del tren de Gachancipá, parte de la histórica línea del ferrocarril del Nordeste. Construida alrededor de 1925 por una compañía belga siguiendo el mismo patrón arquitectónico de tipo inglés de otras estaciones de esta línea férrea. Único inmueble declarado como monumento nacional en el municipio.",
+                "name": "Estación De Tren De Gachancipa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8726595,
+                    4.9867562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-10-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/gdh4046l9n7rlqiktl1gpc7q48/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-HtJqoDma_3f2ETI9AbizNJ_G8fiYGOcRF8WP8n7Sn1pjLWFKjeOBAxlcsS0neqW6q1Ro1VLsf6z6e5xy3CgQsA5URaqO3VTu8o81woi24JUxGbOWPCSHtUKhaJaq-FYLOGTL2e3yPtLxFMVcGZmXBAkPDJrIUENHFgn-W4sPdYtjP6UPkpv6g6NB7i7fw0DpyC?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Capilla católica ubicada en la vereda Santa Bárbara, construida en 1859 por el cura José María Plata. Se encuentra en la parte alta del cerro principal de la vereda contando con una gran vista del municipio. Se relaciona con el culto a Santa Bárbara, la peregrinación y la festividad realizadas en su nombre los días 4 de diciembre",
+                "name": "Capilla de Santa Bárbara"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8745021,
+                    4.992397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-0c-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/e07rftrqpm573p2kmh4t6jhgfo/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-HlI0LygseyaOHUFVn7oa_jFvDQZ3-U4GdtUb39fVMNeUWyW7edMPiIE9pYHBJCqJhTic540MKOs1gJG42ciKa5mcvEJ9eFR28ll7zJkau69MYD0p9r5XMOQki-VcSnzhZMeU-iPHDlAZ8wqVmHxgqu_rUuwQM7KSOb0JpC0nYfSJMGhtnk-ErfZboFe6Xo0FmG?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Construcción católica ubicada en el cementerio municipal. De interés patrimonial por su antigüedad y características arquitectónicas, cuenta con declaratoria a nivel municipal.",
+                "name": "Capilla del Cementerio Gachancipá"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.867696,
+                    4.9867233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/jg0796f82pcg4kocsg7m6vus5o/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-EXgB1EkuI_HBviHn6EmYCL0h6X-BLBy4IEmj_H_9AU3QaGNAHaNjOZPF0ua0jzu41KR01HO4aJQA8o1ykuTiU6uwxxFzVhD_hbdMxg0hokug_fQg5rIWlxHUhF4c1hg0JP6Zn8dFbDPqJIJDKRZbGyH-jI2gA4qDwXWHl7zuFGbqBt7og5JWRgJKliwCRoeAc?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Gruta dedicada al culto de la virgen de Lourdes desde la mitad del s. XX. Relacionado con una supuesta aparición de una imagen de esta virgen en una laja (cuyo paradero se desconoce) y que desde entonces cuenta con un altar dedicado a esta imagen, relacionado con las peregrinaciones mencionadas anteriormente. Lugar de potencial arqueológico y relación con leyendas locales. También relacionado como reservorio de agua<br><br><img src=\"https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/a2i1b3dlm0tq1t84c8veamqdrg/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-EpcrsCjK0yJQWo3Bu9FYWutEBiO7mDjkU5cc22_nHkidGljODdf16Sk7F3dOALmlYUipGDCVjnO4z3KzH0QEEUaw6kiItpUGof4yavDtbjeeCvjQu_Mrp4IceA-HmyIOgOmBwm9vuaMiJCMWcbiDrsUqGWNS7h5DO_GvjvjQJRJyxebOdxEbowdPipz2LUIo4?session=0&fife\" height=\"200\" width=\"auto\" />",
+                "name": "La Gruta De La Virgen Gachancipa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8712396,
+                    4.9927549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Casa Enrique Mancera. Declaratoria municipal como patrimonio inmueble",
+                "name": "Inmueble urbano de interés patrimonial (1)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8645424,
+                    4.9903311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-14-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/vslrtn2ru3e5g7ft9m1t9fnpss/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-EytHgbKiqNJDdl4nsMpLMwtFogB3luPnfNQMkRnWsB_mIRZ0gIgJMk76BP2xTA7hB09qvQvsrpNgVZa2u1RxpZP3OXyrC62Kb9djBRN7jh0uzUbWie4d3A0M0R49Il-n4S7HPyxhzP-eww62R1tMdE6opPsG7or3PKaMp5yYey15o0LwxljTEARFqgZQS1JzA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Lugar de peregrinación católico relacionado con la fiesta de la virgen del carmen y el culto a esta por los transportadores. Sitio de interés turístico por su panorama del municipio,",
+                "name": "Mirador de la Virgen del Carmen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8785455,
+                    5.0356057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-00-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/9mmh9nu9lt0v7rj8rfc8lngjlo/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-GVKMMzsJDSs9V5L9XwUPmcTr2IhGnocfLGMtIz5lAvRYxee7_rTY-5_IQl0cgN6jABrwAdG4DZ6dF-aA5ARKVCpwTGYG8johUDQMz5_mkv3sTSrNqIPWPigYw8nlyd7tQpFlWos1cI0MmY0hszNknWPVwhyiTacu-VW_sPAlc1i0rR22nhb0Iamy5Ntdgeb7M?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Maloka de inspiración amazónica ubicada dentro de la reserva natural Monáyano. Arquitectura moderna no local pero de interés por las actividades llevadas a cabo allí, asociación a tradiciones indígenas",
+                "name": "Reseva Natural y Maloka Monáyano"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8804017,
+                    5.0392849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-0c-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/kn23efu5m6jk3fpjb0b70vr3m4/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-H5rLG62NBTZEWcObW83ywHk6e1iKsaEdTSRzbFkq4MrPixwVuIs4JQyuRapFv7sZG2jBUUXgtXUmmiWiN0Tt4uA1VLJCjRpmAVjT801xteW-U0fV_OKwLF9dmy2WBYHufp9HNrf0y3GRVcWXAF458ejoQvzYjJkD4v9tDC_2brRgmP3zzrmjNAbjD69AMHk1g?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Museo dedicado a la vida campesina del municipio, compuesto por objetos antiguos como herramientas, baúles, fotografías entre otros. Ubicado en un inmueble de al menos 120 años de antigüedad, representante de la arquitectura tradicional rural de la región. Creado por doña Lilia Jiménez y su hija Yadira, siendo la primera conocedora de la cocina tradicional y una tradición oral importante en el municipio.",
+                "name": "Museo Campesino de Gachancipá"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8711491,
+                    4.9918892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-0o-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/2crjabcitqccrv1npesl3goqdk/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-EWVfmPX91wO--TLPGbKM4CS5P9Yy-W6I512LLjoxxSdW4aMCnoh8WZw713QOm1FWZN_oZ4Ks9m4OPwSOZw4a6BUqJn-dpDTLjDXahimsFkPUex0yvngGhkMhYCVyOrXVDrlQzpq5uzpkKPWsrXC-ct9lavT_5KyYz-0QjETF3vC7KCpIRE0txy_Ahq4ozjm18?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Construido hacia mediados del siglo XVI. Ha sufrido numerosas modificaciones a lo largo del tiempo como se evidencia en fotografías antiguas. La plaza principal es un lugar de encuentro para locales y visitantes, lleva el nombre de José Danilo Triana, en honor a ilustre habitante del municipio que dedicó su vida a la labor social y al servicio, y fue el fundador de la Defensa Civil del municipio. <br><br><img src=\"https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/4710ffjl4kirbi2t6ku8g6vhkk/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-HvY0Ag3TXHqFLEddvMB7-paDu9VOYi8oRA8znTzs8RqVAX_FIF4-KTXfNUFNQYC6uVZWwfIwO79XCPZvhXyQB6Ua2KA2M3oWomuA95JhScm5GUejxNzYKBp4k5G5yL06MWW7Umpo3A_Lc_yWQ3VT_xItgJFzIS6KiRc_SN1rj6Ey3_7RjPdmTEp-MGR-t7Zzs?session=0&fife\" height=\"200\" width=\"auto\" />",
+                "name": "Parque Principal De Gachancipa José Danilo Triana"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8708729,
+                    4.994697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Edificio de la antigua Plaza de Mercado. Se caracteriza por ser una construcción contemporánea de dos niveles, cuya fachada está hecha en concreto con tejas de barro. Tiene ventanas al aire libre en forma de media luna.",
+                "name": "Plaza de Mercado "
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8547861,
+                    5.0086577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Casa rural declarada como patrimonio por el concejo municipal, de aproximadamente dos siglos de antigüedad",
+                "name": "Finca La María"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8598956,
+                    5.0039663
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Casa rural declarada patrimonio por el concejo municipal. Según los habitantes de la vereda fue utilizada como escuela en alguna época. Ha sido restaurada.",
+                "name": "Finca La Aurora"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8620375,
+                    4.9876991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Punto de observación astronómica, cuerpo de agua.",
+                "name": "Observatorio Astronómico El Caolín"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8851233,
+                    4.9813127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Inmueble rural que fue sede del negocio homónimo dedicado a la venta de chicha. Es posible recuperar la historia y tradición gastronómica relacionada",
+                "name": "Antigua \"Embajada de Villapinzón\""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8776416,
+                    4.9871442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Inmueble urbano de arquitectura antigua que sigue siendo sede de un restaurante con una tradición de elaboración de lechona de hace más de 50 años",
+                "name": "Restaurante Tancredo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8769542,
+                    4.9766423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Cueva ubicada en las montañas de la vereda Roble Centro. Sitio de interés natural cuenta con rastros de especies de fauna local, especialmente murciélagos. Posible sitio de interés arqueológico, con algunos reportes de instrumentos de piedra o petroglifos.",
+                "name": "Cueva de los Murciélagos"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8683182,
+                    4.9869584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Casa antigua, ubicada al lado de la gruta de la virgen de Lourdes, reconocida por su estilo arquitectónico y su ubicación",
+                "name": "Casa de la Gruta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8764004,
+                    4.9893417
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Edificio construido entre finales de los años 70 y principios de los 80 del s. XX. Originalmente pensado para albergar un molino por parte de una empresa procesadora de alimentos que construyó otro edificio casi idéntico en otro municipio de Cundinamarca (presumiblemente Madrid) fue utilizado por parte de la Fundación Reaseguradora de Colombia, entidad que hizo presencia en el municipio hasta la priméra década del siglo XXI, cuando el edificio fue vendido al municipio, y actualmente hace parte del Colegio. Es referenciado por los servicios que prestó a diferentes generaciones de gachancipeños en su época de Fundación.",
+                "name": "Antigua Fundación "
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.871661,
+                    4.9904415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Casa propiedad de la familia de Serafín González. Declaratoria municipal como patrimonio inmueble.",
+                "name": "Inmueble urbano de interés patrimonial (2)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8717978,
+                    4.9918063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/m5edfe1h4jhq773uh552tari7o/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-HnQiEvc4wSRntDadv_Cd76VMvzOwNymzbsH8g5v_2bIVIsnKwCeIUr_Jc0E_WsBFJrvkqUGCH8twG69LWlEbz26ettJ42trAvz-W21xJ6ZbP74dJQXUGj26banpty6gP2M1oi-5h5xbcx6dvEOyH_lrzXDswQsjxHxE52lyn5v8xgNwwkCaxaJSjZn0JTTpWM?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Fue construida en el siglo XVIII y restaurada por el arquitecto Orlando Ruíz Aponte. Se trata de una de las construcciones más antiguas del municipio, ya que conserva su arquitectura de tipo republicano. Esta casa, tiene un solo nivel, está edificada en adobe y tapia pisada, con tejas de barro y acabados de madera, entre los que se destacan sus ventanas y puerta. Declaratoria municipal como patrimonio inmueble.",
+                "name": "Inmueble urbano de interés patrimonial \"Casa Rosada\" (3)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8713474,
+                    4.9926341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Casa Esteban Jaramillo",
+                "name": "Inmueble urbano de interés patrimonial (4)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8675816,
+                    4.9979844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Inmueble de interés patrimonial. Casa antigua",
+                "name": "Finca Versalles "
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8715084,
+                    4.991981
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-0o-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/ij0m2j4qciar0lki9d0mtkillo/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-GPoOd10blhLbMtDqndh66NEhV0oem0jwR1iG7WSrpzfXKJaJhvzKF6uMDv_4mrEu5jS4l1Fq5yNjhK06pYRwkQ2DN6OXQG_qHKKdRT6de2x9KOGEJiNylN8JHwRt6YufTNiD-1eqTcHPO09DCU63HlXp92u_QJgsBTsc1o-DZQZyfzxY9i-g4v75GQIsJ-gLM?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Encargado por la alcaldía municipal en 1993 este monumento es una representación de las vasijas que elaboraban los indígenas de la región para la industria de la sal. En estas vasijas se cocía el agua salada con el fin de extraer los bloques de sal, para lo cual eran destruidas una vez terminado el proceso de cocción<br><br><img src=\"https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/b4i8guv7pm73jr7nmc7mtata8c/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-FQK41-9A1MsfnbHivrSE5lxWGOUibmcDJdA6m2vr9GS-IUvcPCWJ7y-_Q_PjaIqUsf1R4cKcKMuhUH8jEfn1gztPD_rRR_hgbwfJHnrymXp6EOcI5YlycckxhEtO5ght6fMJTBUSivbMPhxUKTrYFOfuFT97YZADZ8CYaGPPukRtDPC7wGmFoKcqmmS3jPxWw?session=0&fife\" height=\"200\" width=\"auto\" />",
+                "name": "Monumento a la Gacha"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8712254,
+                    4.9918027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-0s-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/q5ahri7fe8tjfchp455cgihreo/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-FUcWUqZLlQP7WJK1Q8AMRSiSGiskR5O3W3IkD75dubcA-yZeXhVKjhVMb7wGzs-xymvLbKS5FEgvkVTs1AL8LNcrZ0MQwRb76sFRg7hi1rS0IXI0J_MJEKTzU8VuauO9Wo93MXW-PbYuKnm5utXe8smgkWk9pfvz6R949wmZHFZAeOAWK29JGBSVBo3qncLd8m?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Busto elaborado en el año de 1930 en conmemoración de los 100 años de la muerte del libertador, además de rememorar su paso por Gachancipá, donde pernoctó durante la campaña libertadora. Tiene una base y una altura de un metro y medio",
+                "name": "Busto de Simón Bolívar"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8707424,
+                    4.9915708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-10-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/esa8n89tfcvei7k7vibb2638v4/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-EWDW2fkpb2fSGlrGfJUFEXchWKP21jXqKRXgYI4deUNPcpOibFxEdjf77NKRfdII37hdRTs3aTGZJgKsw7a7CeV7lX7szR9neKD_WsK3c8Fsk50ae1Xm9CIJhI5iKyNjLBE8ce8t-reHu1TnIqFQJ9qD4dZXTQnf7-e-D0Q5YW4mWO79yurdKwiXRHNQL4X-pT?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Símbolo del adoctrinamiento católico a los indígenas durante la conquista española. Está conformada por una base segmentada, una columna y la cruz misma, mide entre 2 y 3 metros",
+                "name": "Cruz doctrinera"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8623495,
+                    4.9900505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Es una estructura en piedra arenisca esculpida, construida e instalada en 1940 como un símbolo de devoción de la comunidad local en el sector rural de la vereda de San Bartolomé. En la actualidad sirve como sitio de peregrinación durante la Semana Mayor. La cruz tiene una altura aproximada de tres metros, desde su base, a su alrededor se observa la presencia de musgo y arbustos.",
+                "name": "Cruz de piedra"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8613576,
+                    4.9883511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Fiesta dedicada a la celebración del 6 de enero, día de los Reyes Magos, tradicionalmente realizada en la vereda San Bartolomé",
+                "name": "Fiesta de los Reyes Magos"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8711432,
+                    4.9919855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<img src=\"https://doc-0c-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/ejbk6a5mk4lkqm1um3ctmtor4s/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-EBODbs-HA4lFopLVaTbVBno2ZYpKxY8hwNr-kBYAUganeXdJzBUeZlnQGnkSt1WczxAcGT7shwDHhdVqlyuquWP1JhGUs38C7OFB5dhC8nDsI4SRDZGM43gxeOnGPw4c3HVaLGHIyUWF2_Rsr79s-dqz_wHIiNfa7p4bkZDU0nsB7vwtmN-r0mkC6XCWQZa-Ne?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Se celebra la primera o segunda semana del mes de noviembre. Es un evento en el que se busca resaltar el focklore nacional e internacional a través del trabajo que realizan las escuelas locales de formación. Es una festividad que cuenta con el acuerdo municipal 015 del 8 de julio de 2010 y declarado patrimonio Cultural Inmaterial por ordenanza 016 del 24 de julio de 1998. <br><br><img src=\"https://doc-10-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/g1spa6glftv6udkeete8ufr4g0/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-EWblHUjETqdIyC_93xAd8a-2ugdQRzgYhaVp2C27iKmNulBrYGDkMweuM0oSqPBPEJ4nCV_kXT__4fpe_pQThJkCzVd67hkapy7xzXcnJgDX_7tF1crI75vUUA3qMSJYa2B2IWz1I45GY6s1pKtWHTD2-iuA_AcZ6STIdwQRG4D7r568T_BHRTyK5pFU0P7WHZ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0c-8s-mymaps.googleusercontent.com/untrusted/hostedimage/ngj6l72n72fglm7qif1inlksqs/75tj3t7uk7m5kpi1nf5njv573g/1683223415250/TGaKNwombe3Cc-mk9bQeutGV3jkLRzdz/04319998092707510452/5ACtvi-Hs6Atj-D-3HnK-pQOBlPfyxtL4YONXbUUnHEF_Ui7wcQibMuzb4lFPu3lMVGq9xMmXPOCF7tVt0e2BAQQcNgwKxbE0cb02112ZUSJ7teAW1dsHHv6DdVQOkItscRlxqJD7OlYQRFKf95AgA2Y-I7vroatSiOKrYZ0TQMKgLlLZBT7hGqef_sS4S5AcDvSdPRp8?session=0&fife\" height=\"200\" width=\"auto\" />",
+                "name": "Semana Cultural Internacional"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8724968,
+                    4.9870662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Es una de las festividades más tradicionales de Gachancipá y fue institucionalizada por medio del Acuerdo No 017 del 28 de Agosto de 2017. Se realiza el 4 de diciembre y pretende conmemorar la fundación de uno de los primeros asentamientos poblacionales de municipio y la construcción de la Capilla de Santa Bárbara, su principal icono.",
+                "name": "Fiesta patronal de Santa Bárbara"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.864298,
+                    4.9904597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Festividad religiosa realizada durante el mes de julio, especialmente por los transportadores. Relacionada con la peregrinación al balcón de la virgen en San Bartolomé",
+                "name": "Fiesta de la Virgen del Carmen"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,40 @@
+.about-container {
+  background-color: var(--background-color);
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.about-header {
+  color: var(--primary-color);
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.about-text {
+  color: var(--text-color);
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+
+
+/*body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .aboutTitle {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding-top: 1.5rem;
+    color: #4a4a4a;
+  }
+  
+  .aboutText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0;
+  }*/

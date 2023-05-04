@@ -1,0 +1,29 @@
+/* Sidebar.css */
+.sidebar-container {
+    background-color: var(--background-color);
+    padding: 1rem;
+  }
+  
+  .sidebar-header {
+    color: var(--text-color);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .site-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .site-list-item {
+    margin-bottom: 0.5rem;
+  }
+  
+  .site-list-item a {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+  
+  .site-list-item a:hover {
+    color: var(--secondary-color);
+  }  

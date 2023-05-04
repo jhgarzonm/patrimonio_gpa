@@ -1,23 +1,86 @@
 // components/Map.js
-
 import React from 'react';
+import './Map.css';
 
 function Map() {
   return (
-    <div style={{ width: '100%', maxWidth: '800px', height: '500px', margin: '0 auto' }}>
-      <iframe
-        title="Custom Google Map"
-        src="https://www.google.com/maps/d/u/0/embed?mid=1S2m4aaP0DUFjWTFHKtGpqUZmdTRNW3Eh"
-        width="100%"
-        height="100%"
-        style={{ border: 0 }}
-        allowFullScreen=""
-      ></iframe>
+    <div className="map-container">
+      <h1 className="map-header">Mapa Patrimonial</h1>
+        <div className='content-wrapper'>
+         <div className='info-container'>
+         </div>
+         <div className="map-frame-container">
+           <iframe
+            className="map-frame"
+           title="Custom Google Map"
+           src="https://www.google.com/maps/d/u/0/embed?mid=1S2m4aaP0DUFjWTFHKtGpqUZmdTRNW3Eh"
+           allowFullScreen="">
+           </iframe>
+         </div>
+        </div>
+         
     </div>
   );
 }
 
 export default Map;
+
+/*import React, { useEffect, useRef } from 'react';
+import geojson from './AnyConv.com__Gachancipá - Patrimonio Cultural.geojson';
+
+function Map() {
+  const mapRef = useRef();
+
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyBw3UP0WtJ4VkljrGU9qw23JmZWkAIwdfQ`;
+    script.async = true;
+    script.onload = () => {
+      const map = new window.google.maps.Map(mapRef.current, {
+        center: { lat: 4.992019891612211, lng: -73.8710619775782 },
+        zoom: 13,
+      });
+
+      // Carga el archivo GeoJSON y agrega marcadores al mapa.
+      map.data.addGeoJson(geojson);
+      map.data.setStyle({
+        icon: 'https://maps.google.com/mapfiles/ms/icons/red-dot.png',
+      });
+
+      console.log(geojson);
+
+
+      // Opcional: Mostrar información en un cuadro de información al hacer clic en un marcador.
+      const infoWindow = new window.google.maps.InfoWindow();
+      map.data.addListener('click', (event) => {
+        const content = `
+          <div>
+            <h2>${event.feature.getProperty('nombre_propiedad')}</h2>
+            <p>${event.feature.getProperty('descripcion_propiedad')}</p>
+          </div>
+        `;
+
+        infoWindow.setContent(content);
+        infoWindow.setPosition(event.feature.getGeometry().get());
+        infoWindow.open(map);
+      });
+    };
+    document.body.appendChild(script);
+  }, []);
+
+  return (
+    <div className="mapContainer">
+      <div ref={mapRef} style={{ width: '100%', height: '500px' }}></div>
+    </div>
+  );
+}
+
+export default Map;*/
+
+
+
+
+
 
 
 /* import React from 'react';

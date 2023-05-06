@@ -33,7 +33,7 @@ function Map() {
 
   useEffect(() => {
     const script = document.createElement('script');
-    script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyBw3UP0WtJ4VkljrGU9qw23JmZWkAIwdfQ`;
+    script.src = `https://maps.googleapis.com/maps/api/js?key=`;
     script.async = true;
     script.onload = () => {
       const map = new window.google.maps.Map(mapRef.current, {

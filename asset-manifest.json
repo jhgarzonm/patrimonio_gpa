@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patrimonio_gpa/static/css/main.5d556594.css",
+    "main.js": "/patrimonio_gpa/static/js/main.72961e31.js",
+    "static/js/787.da939f6d.chunk.js": "/patrimonio_gpa/static/js/787.da939f6d.chunk.js",
+    "index.html": "/patrimonio_gpa/index.html",
+    "main.5d556594.css.map": "/patrimonio_gpa/static/css/main.5d556594.css.map",
+    "main.72961e31.js.map": "/patrimonio_gpa/static/js/main.72961e31.js.map",
+    "787.da939f6d.chunk.js.map": "/patrimonio_gpa/static/js/787.da939f6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d556594.css",
+    "static/js/main.72961e31.js"
+  ]
+}
